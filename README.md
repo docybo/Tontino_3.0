@@ -1,4 +1,4 @@
-### **Lightpaper : Tontine 3.0 - Réinventer l'Épargne Communautaire avec la Blockchain Cardano**
+### **Tontine Dapp - Réinventer l'Épargne Communautaire avec la Blockchain Cardano**
 
 ---
 
@@ -61,7 +61,7 @@ Cardano est une blockchain de troisième génération, reconnue pour sa sécurit
 
 #### **Conclusion**
 
-**Tontine 3.0** n'est pas seulement une modernisation de la tontine traditionnelle ; c'est une révolution dans la manière dont les communautés peuvent épargner, investir, et se soutenir mutuellement à l'ère numérique. Grâce à la puissance de la blockchain Cardano et aux innovations de la DeFi, nous offrons une solution sécurisée, rentable, et accessible à tous. Rejoignez-nous dans cette aventure pour transformer l’épargne communautaire et créer un avenir financier plus inclusif et solidaire.
+**Tontine Dapp** n'est pas seulement une modernisation de la tontine traditionnelle ; c'est une révolution dans la manière dont les communautés peuvent épargner, investir, et se soutenir mutuellement à l'ère numérique. Grâce à la puissance de la blockchain Cardano et aux innovations de la DeFi, nous offrons une solution sécurisée, rentable, et accessible à tous. Rejoignez-nous dans cette aventure pour transformer l’épargne communautaire et créer un avenir financier plus inclusif et solidaire.
 
 ---
 
